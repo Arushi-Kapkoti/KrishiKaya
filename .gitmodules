@@ -1,0 +1,3 @@
+[submodule "Plant-disease"]
+	path = Plant-disease
+	url = https://github.com/siddhardhan23/plant-disease-prediction-cnn-deep-leanring-project.git
